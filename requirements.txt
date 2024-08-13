@@ -1,0 +1,11 @@
+pandas
+requests
+plotly
+matplotlib
+Flask
+gunicorn
+catboost
+numpy<2
+pmdarima
+statsmodels
+shap
